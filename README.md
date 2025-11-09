@@ -42,6 +42,9 @@ A curated collection of programming and application projects:
 This is my **3D engine development learning project** in C, built from scratch using **OpenGL, CJSON, and stb_image**.  
 I documented the process as an iterative learning journey.
 
+**Tech:** C, OpenGL  
+**GitHub:** [Link](#)  
+
 ---
 
 ### GuitarDistortion VST3
@@ -63,7 +66,7 @@ Displays all guitar chord shapes across the fretboard.
 ### CNN for Audio Classification
 Real-time audio keyword recognition using a Convolutional Neural Network. Includes custom UI and model implementation.  
 
-**Tech:** Python, NumPy  
+**Tech:** Python, NumPy, Tensorflow
 **GitHub:** [Link](#)  
 
 ---
