@@ -36,6 +36,11 @@ I have also completed a vocational degree in Data and Information Technology at 
 ## 💻 Projects
 
 A curated collection of programming and application projects:
+---
+
+### **Basic3D** – Learning 3D Engine
+This is my **3D engine development learning project** in C, built from scratch using **OpenGL, CJSON, and stb_image**.  
+I documented the process as an iterative learning journey.
 
 ---
 
